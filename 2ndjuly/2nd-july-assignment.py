@@ -7,9 +7,9 @@ b=7
 print(a+b)
 
 # 2.Write a Python program to subtract two numbers and print the result
-18
-7
-print(18-7)
+
+result=18-7
+print(result)
 
 # 3.Multiply two variables and store the result in a third variable. Print all three.
 a=18
