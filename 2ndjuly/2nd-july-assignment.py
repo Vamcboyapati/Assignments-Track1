@@ -7,7 +7,6 @@ b=7
 print(a+b)
 
 # 2.Write a Python program to subtract two numbers and print the result
-
 result=18-7
 print(result)
 
