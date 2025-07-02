@@ -32,7 +32,7 @@ print(a**2)
 
 # 8. Assign values to three variables `x`, `y`, `z` and compute the average.
 x,y,z=18,7,45
-average=x+y+z/3
+average=(x+y+z)/3
 print(average)
 
 # 9. Take a number and find its cube using the `**` operator.
