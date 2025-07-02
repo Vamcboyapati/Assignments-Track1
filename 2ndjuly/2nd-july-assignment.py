@@ -1,5 +1,5 @@
 # 1 What are variables and why are they called variables
-#A variable is typically described as a name that refers to a specific block of memory and they are called "variables" because the value they store can be changed or varied in incoming lines of code.
+#A variable is typically described as a name that refers to a specific block of memory and they are called "variables" because the value they store can be changed or varied in upcoming lines of code.
  
 #Assign two numbers to variables `a` and `b`, and print their sum.
 a=18
