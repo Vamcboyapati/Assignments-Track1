@@ -11,12 +11,12 @@ print(type(a))
 
 # string1="10000 coders"
 
-# 1.	First character
-#string1[0]
-# 2.	Last character
-#string1[-1]
-# 3.	A substring from index 2 to 5
-#string1[2:6]
+ # 1.	First character
+ #string1[0]
+ # 2.	Last character
+ #string1[-1]
+ # 3.	A substring from index 2 to 5
+ #string1[2:6]
 
 # 3.	Concatenate two strings and print the result.
 
@@ -29,7 +29,7 @@ print(result)
 
 #list is a ordered collection of heterogenous elements
 
-# list is mutable ,represented by []and tuple is immutable,represented by ().
+# list is mutable ,represented by [] while tuple is immutable,represented by ().
 
 # 5.	Write a programme to print a list in reverse order.
 
