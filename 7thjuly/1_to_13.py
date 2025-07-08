@@ -75,7 +75,7 @@ print(marks['vamsi'])
 
 # 12.	 Can I have duplicate values and keys in a dictionary? What happens if I wanted try to duplicate key in a dictionary? 
 
-#yes, you can have duplicate values but you can't have duplicate keys in a dictionary.If you wanted to duplicate key in a dictionary ,it will result in re-assignment of key to another value and it will print only last assigned pair by overwrite the previous one.
+#yes, you can have duplicate values but you can't have duplicate keys in a dictionary.If you wanted to duplicate key in a dictionary ,it will result in re-assignment of key to another value and it will print only last assigned pair by overwriting the previous one.
 
 # 13.	Print all multiples of 17 using range. Numbers should start from -34 and end below 400.
 
