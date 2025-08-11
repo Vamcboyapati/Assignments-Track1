@@ -9,5 +9,5 @@ def check_right_angle_triangle(a,b,c):
   else:
     print("Given sides are not from right angle triangle")
   
-a,b,c=map(int,input("Enter the three sides of the triangle:").split(' '))
+a,b,c=map(int,input("Enter the three sides of the triangle:").split())
 check_right_angle_triangle(a,b,c)
